@@ -1,0 +1,9 @@
+# Original art packs: only the resized copies in assets/game are published
+*.zip
+assets/raw/
+assets/game/_contact_*
+assets/game/meta.json
+
+# Preview screenshots
+screenshot*.png
+sprites_preview.png
